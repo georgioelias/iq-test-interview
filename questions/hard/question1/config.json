@@ -1,0 +1,18 @@
+{
+  "question_text": "Choose the correct answer \nTom has a new set of golf clubs. Using a club 8, the ball travels an average distance of 100 meters. Using a club 7, the ball travels an average distance of 108 meters. Using a club 6, the ball travels an average distance of 114 meters. How far will the ball go if Tom uses a club 5?",
+  "options": [
+    {
+      "text": "122 meters"
+    },
+    {
+      "text": "120 meters"
+    },
+    {
+      "text": "118 meters"
+    },
+    {
+      "text": "116 meters"
+    }
+  ],
+  "correct_answer": "C"
+}

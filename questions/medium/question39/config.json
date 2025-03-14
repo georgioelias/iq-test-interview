@@ -1,0 +1,18 @@
+{
+  "question_text": "Choose the correct answer \nQAR, RAS, SAT, TAU, _____",
+  "options": [
+    {
+      "text": "UAV"
+    },
+    {
+      "text": "UAT"
+    },
+    {
+      "text": "TAS"
+    },
+    {
+      "text": "TAT"
+    }
+  ],
+  "correct_answer": "A"
+}

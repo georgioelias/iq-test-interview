@@ -1,0 +1,10 @@
+{
+    "question_text": "Choose the correct Answer: \nRover weighs less than Fido.\nRover weighs more than Boomer.\nOf the three dogs, Boomer weighs the least.\nIf the first two statements are true, the third statement is:",
+    "options": [
+      {"text": "True"},
+      {"text": "False"},
+      {"text": "Uncertain"}
+    ],
+    "correct_answer": "A"
+  }
+  

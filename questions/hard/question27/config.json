@@ -1,0 +1,18 @@
+{
+  "question_text": "Choose the correct answer \nIf the Eastern region\u2019s total sales represent 26% of the total for all regions, what are the total sales across all regions (to the nearest \u00a3million)?",
+  "options": [
+    {
+      "text": "\u00a3124 million"
+    },
+    {
+      "text": "\u00a3142 million"
+    },
+    {
+      "text": "\u00a3161 million"
+    },
+    {
+      "text": "\u00a3619 million"
+    }
+  ],
+  "correct_answer": "D"
+}

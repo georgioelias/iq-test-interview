@@ -1,0 +1,11 @@
+{
+    "question_text": "Choose the correct Answer: \nWhich number logically follows this series?\n4     6     9     6     14     6      ...",
+    "options": [
+      {"text": "6"},
+      {"text": "17"},
+      {"text": "19"},
+      {"text": "21"}
+    ],
+    "correct_answer": "C"
+  }
+  

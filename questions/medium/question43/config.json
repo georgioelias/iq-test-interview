@@ -1,0 +1,15 @@
+{
+  "question_text": "Choose the correct answer \nAll the tulips in Zoe's garden are white.\nAll the pansies in Zoe's garden are yellow.\nAll the flowers in Zoe's garden are either white or yellow.\nIf the first two statements are true, the third statement is:",
+  "options": [
+    {
+      "text": "True"
+    },
+    {
+      "text": "False"
+    },
+    {
+      "text": "Uncertain"
+    }
+  ],
+  "correct_answer": "C"
+}

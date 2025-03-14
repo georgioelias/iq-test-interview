@@ -1,0 +1,18 @@
+{
+  "question_text": "Choose the correct answer \n\nStatements:\n\nNo Watch is Cycle.\n\nNo Cycle is Motorbike.\n\nSome Autos are Motorbike.\n\n\n\nConclusion:\n\nI. No Motorbike is Watch.\n\nII. No Motorbike is Cycle.\n\nIII. Some Cycles are Watches.\n\nIV. All Motorbikes are Watches.\n\n\n\nChoices:\n\n1- None follow\n\n2- Only I follows\n\n3- Only I and III follow\n\n4- None of these\n\n",
+  "options": [
+    {
+      "text": "1"
+    },
+    {
+      "text": "2"
+    },
+    {
+      "text": "3"
+    },
+    {
+      "text": "4"
+    }
+  ],
+  "correct_answer": "D"
+}

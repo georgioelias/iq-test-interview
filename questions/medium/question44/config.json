@@ -1,0 +1,15 @@
+{
+  "question_text": "Choose the correct answer \nDuring the past year, Josh saw more movies than Stephen.\nStephen saw fewer movies than Darren.\nDarren saw more movies than Josh.\nIf the first two statements are true, the third statement is:",
+  "options": [
+    {
+      "text": "True"
+    },
+    {
+      "text": "False"
+    },
+    {
+      "text": "Uncertain"
+    }
+  ],
+  "correct_answer": "C"
+}

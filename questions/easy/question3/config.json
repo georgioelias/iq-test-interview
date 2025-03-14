@@ -1,0 +1,18 @@
+{
+  "question_text": "Choose the correct answer \nWhich of the following statements is false regarding legal sector spending between Year 4 and projected Year 5?",
+  "options": [
+    {
+      "text": "IT consulting will increase by \u00a35 million."
+    },
+    {
+      "text": "IT consulting will match that of Year 2."
+    },
+    {
+      "text": "IT software will exceed IT consulting."
+    },
+    {
+      "text": "Spending on IT hardware will decline."
+    }
+  ],
+  "correct_answer": "D"
+}

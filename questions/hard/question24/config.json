@@ -1,0 +1,18 @@
+{
+  "question_text": "Choose the correct answer \n2 -12 -32 -58 -90 ...",
+  "options": [
+    {
+      "text": "-128"
+    },
+    {
+      "text": "-122"
+    },
+    {
+      "text": "-118"
+    },
+    {
+      "text": "-110"
+    }
+  ],
+  "correct_answer": "A"
+}

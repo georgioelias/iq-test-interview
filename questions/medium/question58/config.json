@@ -1,0 +1,18 @@
+{
+  "question_text": "Choose the correct answer \nIf there are 44 leopards at the zoo, what is the zoo\u2019s total animal population?",
+  "options": [
+    {
+      "text": "225"
+    },
+    {
+      "text": "275"
+    },
+    {
+      "text": "325"
+    },
+    {
+      "text": "350"
+    }
+  ],
+  "correct_answer": "B"
+}

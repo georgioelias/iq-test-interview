@@ -1,0 +1,10 @@
+{
+    "question_text": "Choose the correct Answer: \nApartments in the Riverdale Manor cost less than apartments in The Gaslight Commons.\nApartments in the Livingston Gate cost more than apartments in The Gaslight Commons.\nOf the three apartment buildings, the Livingston Gate costs the most.\nIf the first two statements are true, the third statement is:",
+    "options": [
+      {"text": "True"},
+      {"text": "False"},
+      {"text": "Uncertain"}
+    ],
+    "correct_answer": "A"
+  }
+  

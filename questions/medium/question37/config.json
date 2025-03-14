@@ -1,0 +1,18 @@
+{
+  "question_text": "Choose the correct answer \nJAK, KBL, LCM, MDN, _____",
+  "options": [
+    {
+      "text": "OEP"
+    },
+    {
+      "text": "NEO"
+    },
+    {
+      "text": "MEN"
+    },
+    {
+      "text": "PFQ"
+    }
+  ],
+  "correct_answer": "B"
+}

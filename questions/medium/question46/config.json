@@ -1,0 +1,18 @@
+{
+  "question_text": "Choose the correct answer \n\nStatements:\n\nSome Cats are Rats.\n\nAll Bats are Tables.\n\nAll Rats are Bats.\n\n\n\nConclusion:\n\nI. Some Cats are Bats\n\nII. All Bats are Rats\n\nIII. All Tables are Cats\n\nIV. All Bats are Cats\n\n\n\nChoices:\n\n1- Only I & II follow\n\n2- Only II follows\n\n3- Only I & IV follow\n\n4- None of these\n\n",
+  "options": [
+    {
+      "text": "1"
+    },
+    {
+      "text": "2"
+    },
+    {
+      "text": "3"
+    },
+    {
+      "text": "4"
+    }
+  ],
+  "correct_answer": "D"
+}

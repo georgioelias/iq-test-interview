@@ -1,0 +1,18 @@
+{
+  "question_text": "Choose the correct answer \nDEF, DEF2, DE2F2, _____, D2E2F3",
+  "options": [
+    {
+      "text": "DEF3"
+    },
+    {
+      "text": "D3EF3"
+    },
+    {
+      "text": "D2E3F"
+    },
+    {
+      "text": "D2E2F2"
+    }
+  ],
+  "correct_answer": "D"
+}

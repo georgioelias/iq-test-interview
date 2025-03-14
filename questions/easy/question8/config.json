@@ -1,0 +1,10 @@
+{
+    "question_text": "Choose the correct Answer: \nBlueberries cost more than strawberries.\nBlueberries cost less than raspberries.\nRaspberries cost more than strawberries and blueberries.\nIf the first two statements are true, the third statement is:",
+    "options": [
+      {"text": "True"},
+      {"text": "False"},
+      {"text": "Uncertain"}
+    ],
+    "correct_answer": "A"
+  }
+  

@@ -1,0 +1,10 @@
+{
+    "question_text": "Choose the correct Answer: \nTanya is older than Eric.\nCliff is older than Tanya.\nEric is older than Cliff.\nIf the first two statements are true, the third statement is:",
+    "options": [
+      {"text": "True"},
+      {"text": "False"},
+      {"text": "Uncertain"}
+    ],
+    "correct_answer": "B"
+  }
+  

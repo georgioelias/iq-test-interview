@@ -1,0 +1,11 @@
+{
+    "question_text": "Choose the correct Answer That best fit the missing part: \nQPO, NML, KJI, _____, EDC",
+    "options": [
+      {"text": "HGF"},
+      {"text": "CAB"},
+      {"text": "JKL"},
+      {"text": "GHI"}
+    ],
+    "correct_answer": "A"
+  }
+  

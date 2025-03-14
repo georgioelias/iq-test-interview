@@ -1,0 +1,18 @@
+{
+  "question_text": "Choose the correct answer \n75 15 25 5 15 ...",
+  "options": [
+    {
+      "text": "7"
+    },
+    {
+      "text": "3"
+    },
+    {
+      "text": "5"
+    },
+    {
+      "text": "2"
+    }
+  ],
+  "correct_answer": "B"
+}

@@ -1,0 +1,18 @@
+{
+  "question_text": "Choose the correct answer \nToday\u2019s Drebs Ltd share price represents a 40% increase on the price one month ago. What was the Drebs Ltd share price a month ago?",
+  "options": [
+    {
+      "text": "\u20ac22"
+    },
+    {
+      "text": "\u20ac25.20"
+    },
+    {
+      "text": "\u20ac12.68"
+    },
+    {
+      "text": "\u20ac12.86"
+    }
+  ],
+  "correct_answer": "D"
+}

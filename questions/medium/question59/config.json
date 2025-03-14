@@ -1,0 +1,18 @@
+{
+  "question_text": "Choose the correct answer \nIf a driver travels an average of 4,250 miles per month driving only along motorways in an Xtam car, what is the predicted annual consumption of fuel (in gallons)?",
+  "options": [
+    {
+      "text": "Cannot say"
+    },
+    {
+      "text": "1,500"
+    },
+    {
+      "text": "125"
+    },
+    {
+      "text": "150"
+    }
+  ],
+  "correct_answer": "B"
+}

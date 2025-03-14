@@ -1,0 +1,18 @@
+{
+  "question_text": "Choose the correct answer \nWhich share had the largest absolute difference between the highest and lowest price over the last 12 months?",
+  "options": [
+    {
+      "text": "Huver Co."
+    },
+    {
+      "text": "Drebs Ltd"
+    },
+    {
+      "text": "Fevs Plc"
+    },
+    {
+      "text": "Fauvers"
+    }
+  ],
+  "correct_answer": "C"
+}

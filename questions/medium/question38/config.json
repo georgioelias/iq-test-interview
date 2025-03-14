@@ -1,0 +1,18 @@
+{
+  "question_text": "Choose the correct answer \nBCB, DED, FGF, HIH, ___",
+  "options": [
+    {
+      "text": "JKJ"
+    },
+    {
+      "text": "HJH"
+    },
+    {
+      "text": "IJI"
+    },
+    {
+      "text": "JHJ"
+    }
+  ],
+  "correct_answer": "A"
+}

@@ -1,0 +1,18 @@
+{
+  "question_text": "Choose the correct answer \nNone of the stamp collectors is an architect.\nAll the drones are stamp collectors.\nWhich of the following is correct?",
+  "options": [
+    {
+      "text": "All stamp collectors are architects"
+    },
+    {
+      "text": "Architects are not drones"
+    },
+    {
+      "text": "No stamp collectors are drones"
+    },
+    {
+      "text": "Some drones are architects"
+    }
+  ],
+  "correct_answer": "B"
+}

@@ -1,0 +1,18 @@
+{
+  "question_text": "Choose the correct answer \nAMB, CLB, BKC, DJC, ______",
+  "options": [
+    {
+      "text": "EID"
+    },
+    {
+      "text": "CJD"
+    },
+    {
+      "text": "EIF"
+    },
+    {
+      "text": "EJF"
+    }
+  ],
+  "correct_answer": "A"
+}

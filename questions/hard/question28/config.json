@@ -1,0 +1,18 @@
+{
+  "question_text": "Choose the correct answer \nIn the diagram above, each of fifteen private colleges is represented by a dot and an X on a vertical line. The X indicates the college\u2019s annual income from tuition in 2008. The dot, above or below on the same dashed vertical line, indicates the college\u2019s annual income in 2008 from investments such as endowments. The base of the vertical dashed line indicates the number of students at that college in 2008. For how many colleges shown is the investment income in 2008 more than double the same college\u2019s tuition income in 2008?",
+  "options": [
+    {
+      "text": "None"
+    },
+    {
+      "text": "One"
+    },
+    {
+      "text": "Two"
+    },
+    {
+      "text": "Three"
+    }
+  ],
+  "correct_answer": "B"
+}

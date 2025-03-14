@@ -1,0 +1,15 @@
+{
+  "question_text": "Choose the correct answer \nThe Kingston Mall has more stores than the Galleria.\nThe Four Corners Mall has fewer stores than the Galleria.\nThe Kingston Mall has more stores than the Four Corners Mall.\nIf the first two statements are true, the third statement is:",
+  "options": [
+    {
+      "text": "True"
+    },
+    {
+      "text": "False"
+    },
+    {
+      "text": "Uncertain"
+    }
+  ],
+  "correct_answer": "A"
+}

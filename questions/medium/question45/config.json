@@ -1,0 +1,15 @@
+{
+  "question_text": "Choose the correct answer \nAll the offices on the 9th floor have wall-to-wall carpeting.\nNo wall-to-wall carpeting is pink.\nNone of the offices on the 9th floor has pink wall-to-wall carpeting.\nIf the first two statements are true, the third statement is:",
+  "options": [
+    {
+      "text": "True"
+    },
+    {
+      "text": "False"
+    },
+    {
+      "text": "Uncertain"
+    }
+  ],
+  "correct_answer": "A"
+}

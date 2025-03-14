@@ -1,0 +1,10 @@
+{
+    "question_text": "Choose the correct Answer: \nClass A has a higher enrollment than Class B.\nClass C has a lower enrollment than Class B.\nClass A has a lower enrollment than Class C.\nIf the first two statements are true, the third statement is:",
+    "options": [
+      {"text": "True"},
+      {"text": "False"},
+      {"text": "Uncertain"}
+    ],
+    "correct_answer": "B"
+  }
+  
